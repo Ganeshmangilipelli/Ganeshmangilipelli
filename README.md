@@ -133,3 +133,174 @@ elite in software & AI
 </table>
 
 </div>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganeshmangilipelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshmangilipelli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=Ganeshmangilipelli&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Matrix
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ganeshmangilipelli&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshmangilipelli&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🚀 Current Objectives
+
+<div align="center">
+
+| Mission | Status |
+|---|---|
+| Master Advanced MERN Stack | ⚡ In Progress |
+| Solve DSA Daily | 🔥 Consistent |
+| Learn System Design | 📚 Exploring |
+| Build AI-Powered Applications | 🤖 Active |
+| Explore RAG & AI Agents | 🚀 Researching |
+| Become Industry Ready | 🧠 Loading... |
+
+</div>
+
+---
+
+# 🌌 Developer Console
+
+<div align="center">
+
+```bash
+> Initializing Ganesh.exe
+
+[✔] MERN Stack Activated
+[✔] DSA Mode Enabled
+[✔] AI Exploration Started
+[✔] Building Real-World Projects
+[✔] Consistency Engine Running
+
+> Mission:
+Become a world-class Software & AI Engineer.
+```
+
+</div>
+
+---
+
+# 🧠 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Ganeshmangilipelli">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Ganeshmangilipelli/Ganeshmangilipelli/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# ⚔️ Developer Mindset
+
+<div align="center">
+
+```cpp
+while(alive) {
+
+    learn();
+    build();
+    fail();
+    improve();
+    repeat();
+
+}
+```
+
+</div>
+
+---
+
+# 🌠 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ganeshmangilipelli">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ "Code. Create. Conquer."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+
+</div>
