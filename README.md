@@ -1,3 +1,20 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:111827,75:1E3A8A,100:00F7FF&height=260&section=header&text=GANESH&fontSize=75&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences+⚡;Exploring+Generative+AI+%26+Agentic+Systems+🤖;Turning+Ideas+Into+Reality+🚀"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ganeshmangilipelli&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Ganeshmangilipelli?style=for-the-badge&color=8A2BE2"/>
+
+<img src="https://img.shields.io/github/stars/Ganeshmangilipelli?style=for-the-badge&color=00F7FF"/>
+
+</div>
 # 🌌 SYSTEM // GANESH
 
 <div align="center">
