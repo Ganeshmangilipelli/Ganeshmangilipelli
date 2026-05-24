@@ -353,7 +353,7 @@ Becoming unstoppable ⚡
 
 <div align="center">
 
-![snake gif](https://github.com/Ganeshmangilipelli/Ganeshmangilipelli/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Ganeshmangilipelli/Ganeshmangilipelli/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
