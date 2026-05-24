@@ -1,59 +1,127 @@
-# 🌌 About Me
+# 🌌 SYSTEM // GANESH
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code+⚡;Exploring+AI,+Systems+%26+Scalable+Engineering+🚀;Driven+by+Curiosity+%7C+Powered+by+Consistency+🧠"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=INITIALIZING+FUTURE+AI+ENGINEER+⚡;FULL+STACK+DEVELOPER+ONLINE+🚀;BUILDING+INTELLIGENT+SYSTEMS+🧠;CONSISTENCY+ENGINE+ACTIVE+🔥"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⚡ From solving programming problems  
-### to engineering intelligent systems —
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00F7FF?style=for-the-badge"/>
 
-I’m currently focused on mastering **Full Stack Development**,  
-**Data Structures & Algorithms**, and the rapidly evolving world of  
-**Generative AI, RAG Systems, and Agentic AI**.
+<img src="https://img.shields.io/badge/FOCUS-AI+%2F+FULLSTACK+%2F+DSA-111827?style=for-the-badge"/>
 
-<br>
-
-What excites me most about technology is not just writing code —  
-but building systems that can **solve meaningful problems at scale**.
-
-<br>
-
-I enjoy transforming ideas into real-world applications,  
-exploring how modern software and AI can work together,  
-and continuously pushing myself to think deeper, build better,  
-and grow as an engineer every single day.
-
-<br>
-
-Whether it’s:
-⚡ building scalable MERN applications  
-🧠 solving complex DSA problems  
-🤖 experimenting with AI-powered systems  
-🚀 or learning how great software is architected —
-
-I’m always building toward the next level.
-
-<br>
-
-### 🌠 Vision
-
-To become a world-class Software & AI Engineer  
-capable of creating impactful products, intelligent systems,  
-and technology that genuinely matters.
+<img src="https://img.shields.io/badge/MINDSET-CONSISTENCY_OVER_MOTIVATION-8A2BE2?style=for-the-badge"/>
 
 </div>
 
-<br>
+---
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   Name        :: Ganesh                                      │
+│   Role        :: Future Software & AI Engineer               │
+│   Mission     :: Build systems that actually matter          │
+│   Learning    :: MERN • DSA • GenAI • RAG • AI Agents       │
+│   State       :: Constantly evolving                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
 
 <div align="center">
 
-> ### “The future belongs to those who can build it.”
+## ⚡ CURRENT TRANSMISSION
+
+</div>
+
+```text
+> Exploring the intersection of modern software engineering
+  and artificial intelligence.
+
+> Turning curiosity into scalable applications.
+
+> Building full stack systems.
+> Solving algorithmic problems.
+> Experimenting with AI-powered architectures.
+
+> Learning deeply.
+> Building consistently.
+> Improving relentlessly.
+```
+
+---
+
+<div align="center">
+
+## 🧠 ENGINEERING DNA
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/source-code.png"/>
+
+### Full Stack Builder
+
+Creating scalable  
+end-to-end applications
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png"/>
+
+### AI Explorer
+
+Exploring GenAI,  
+RAG & Agentic Systems
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.icons8.com/fluency/96/brain.png"/>
+
+### Problem Solver
+
+Sharpening logic  
+through DSA daily
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌠 LONG TERM VISION
+
+</div>
+
+```text
+Build products.
+Design systems.
+Master engineering.
+Create impact.
+
+Repeat until extraordinary.
+```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=The+Future+Is+Built+By+Those+Who+Create+It+⚡"/>
 
 </div>
 
