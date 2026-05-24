@@ -1,49 +1,56 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=GANESH&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20Progress&descAlignY=60&descAlign=50"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ganesh;MERN+Stack+Developer;DSA+Problem+Solver;GenAI+Explorer;Future+AI+Engineer;Building+the+Future+with+Code+⚡"/>
-
-<img src="https://komarev.com/ghpvc/?username=Ganeshmangilipelli&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Turning+Ideas+into+Reality+⚡;Building+Scalable+Digital+Experiences+🚀;Exploring+the+Future+of+AI+🤖;Engineering+Systems+That+Matter+🧠"/>
 
 </div>
 
----
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<br>
 
 ```yaml
-name: Ganesh
-located_in: India
-current_focus:
-  [
-    "MERN Stack",
-    "Data Structures & Algorithms",
-    "System Design",
-    "Generative AI",
-    "RAG Systems",
-    "Agentic AI"
-  ]
+class Ganesh:
 
-currently_learning:
-  [
-    "Advanced MERN",
-    "AI Engineering",
-    "Scalable Backend Systems"
-  ]
+    def __init__(self):
+        self.role = "Future Software & AI Engineer"
+        self.location = "India 🇮🇳"
 
-goal_2026: "Become a top-tier Software & AI Engineer"
+        self.current_mission = [
+            "Mastering MERN Stack",
+            "Solving DSA Problems",
+            "Exploring Generative AI",
+            "Building Real-World Projects",
+            "Learning System Design"
+        ]
 
-hobbies:
-  [
-    "Building Projects",
-    "Learning New Technologies",
-    "Problem Solving",
-    "Public Speaking"
-  ]
+        self.interests = [
+            "AI Agents",
+            "RAG Systems",
+            "Scalable Applications",
+            "Developer Tools",
+            "Creative Engineering"
+        ]
 
-motto: "Code. Learn. Build. Repeat."
+        self.mindset = "Consistency > Motivation"
+
+        self.goal = """
+        Build products that impact millions
+        and become a world-class engineer.
+        """
+
+    def life():
+        while True:
+            learn()
+            build()
+            improve()
+            repeat()
 ```
+
+<div align="center">
+
+### ⚡ “I don't just learn technology. I build with it.”
+
+</div>
 
 ---
 
@@ -51,124 +58,41 @@ motto: "Code. Learn. Build. Repeat."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,linux&perline=8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Technologies+I+Use+to+Build+the+Future+🚀;Full+Stack+%2B+AI+Engineering+⚡;Code+%7C+Create+%7C+Innovate+🧠"/>
 
 </div>
 
----
-
-# 🚀 Current Mission
+<br>
 
 <div align="center">
 
-| Focus Area | Status |
-|---|---|
-| MERN Stack | ⚡ Grinding |
-| DSA | 🔥 Daily Practice |
-| System Design | 📚 Learning |
-| GenAI | 🤖 Exploring |
-| RAG Systems | 🚀 Building |
-| Agentic AI | 🧠 Researching |
+## 🎨 Frontend Universe
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" />
 
----
+<br><br>
 
-# 📊 GitHub Analytics
+## ⚙️ Backend Powerhouse
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java&theme=dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganeshmangilipelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshmangilipelli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+## 🧠 Database & Cloud
 
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
 
----
+<br><br>
 
-# 🔥 Contribution Streak
+## 🛠️ Developer Toolkit
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=Ganeshmangilipelli&theme=tokyonight&hide_border=true&background=0D1117"/>
+<br><br>
 
-</div>
+## 🤖 AI / Future Tech
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshmangilipelli&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ganeshmangilipelli&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🧠 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/Ganeshmangilipelli">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-# ⚔️ Developer Mindset
-
-<div align="center">
-
-```text
-while(alive) {
-    eat();
-    code();
-    learn();
-    build();
-    repeat();
-}
-```
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Ganeshmangilipelli/Ganeshmangilipelli/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🌌 Quote
-
-<div align="center">
-
-> “The best way to predict the future is to build it.”
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
 </div>
 
@@ -176,6 +100,36 @@ while(alive) {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+# 🌌 Engineering Philosophy
+
+<table>
+<tr>
+<td align="center">
+
+### 🧠 Learn Deeply
+
+Understanding systems  
+beyond surface level
+
+</td>
+
+<td align="center">
+
+### ⚡ Build Consistently
+
+Projects > Tutorials
+
+</td>
+
+<td align="center">
+
+### 🚀 Think Long-Term
+
+Focused on becoming  
+elite in software & AI
+
+</td>
+</tr>
+</table>
 
 </div>
