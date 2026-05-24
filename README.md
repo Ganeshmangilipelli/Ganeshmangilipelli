@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ganesh;MERN+Stack+Developer;DSA+Learner;GenAI+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Ganesh;MERN+Stack+Developer;DSA+Learner;GenAI+Explorer;Building+the+Future+with+Code" />
 
-![](https://komarev.com/ghpvc/?username=Ganeshmangilipelli&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=Ganeshmangilipelli&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -10,70 +10,125 @@
 
 # 💫 About Me
 
-🚀 MERN Stack Developer  
-📚 Currently learning DSA and System Design  
-🤖 Exploring GenAI, RAG, and Agentic AI  
-💻 Passionate about building real-world projects  
-🎯 Goal: Become a top software engineer
+```yaml
+name: Ganesh
+located_in: India
+current_focus:
+  [
+    "MERN Stack",
+    "DSA",
+    "System Design",
+    "GenAI",
+    "RAG",
+    "Agentic AI"
+  ]
+
+currently_building: "Real-world scalable projects"
+
+goal_2026: "Become a strong software engineer and AI engineer"
+
+fun_fact: "Consistency beats intensity 🚀"
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganeshmangilipelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshmangilipelli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ganeshmangilipelli&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshmangilipelli&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ganeshmangilipelli&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🚀 Current Mission
+
+- 📚 Solving DSA consistently
+- ⚛️ Building MERN projects
+- 🤖 Exploring Generative AI
+- 🧠 Learning System Design
+- 🔥 Improving problem-solving skills
+- 🌍 Building projects that matter
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mangilipelli-ganesh-092531237/)
+<div align="center">
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ganeshmangilipelli">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+<div align="center">
 
-## Frontend
+## ⚡ “Code. Learn. Build. Repeat.”
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# 🔥 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-## ✨ Quote
-
-> “Consistency beats intensity.”
+</div>
