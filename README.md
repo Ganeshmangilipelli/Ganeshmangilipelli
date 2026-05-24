@@ -43,7 +43,7 @@
 │   Name        :: Ganesh                                      │
 │   Role        :: Future Software & AI Engineer               │
 │   Mission     :: Build systems that actually matter          │
-│   Learning    :: MERN • DSA • GenAI • RAG • AI Agents       │
+│   Learning    :: MERN • DSA • GenAI • RAG • AI Agents        │
 │   State       :: Constantly evolving                         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
