@@ -1,73 +1,81 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:111827,75:1E3A8A,100:00F7FF&height=320&section=header&text=GANESH&fontSize=80&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descAlignY=60&descSize=18"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ganesh;MERN+Stack+Developer;DSA+Problem+Solver;GenAI+Explorer;Future+AI+Engineer;Building+Scalable+Digital+Experiences+⚡"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Ganeshmangilipelli&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Ganeshmangilipelli?style=for-the-badge&color=00F7FF"/>
-
-<img src="https://img.shields.io/github/stars/Ganeshmangilipelli?style=for-the-badge&color=00F7FF"/>
-
-</div>
-
----
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1200&color=8A2BE2&center=true&vCenter=true&width=850&lines=Turning+Ideas+Into+Reality+⚡;Engineering+the+Future+with+AI+🤖;Building+Systems+That+Matter+🚀;Learning+Deeply+%7C+Building+Consistently+🧠"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Ideas+Into+Reality+⚡;Exploring+the+Future+of+Artificial+Intelligence+🤖;Building+Scalable+Digital+Experiences+🚀;Driven+by+Curiosity+%7C+Powered+by+Consistency+🧠"/>
 
 </div>
 
 <br>
+
+<div align="center">
 
 ```python
 class Ganesh:
 
     def __init__(self):
 
-        self.role = "Future Software & AI Engineer"
+        self.identity = "Future Software & AI Engineer"
 
-        self.current_focus = [
-            "MERN Stack",
+        self.currently_mastering = [
+            "MERN Stack Development",
             "Data Structures & Algorithms",
             "System Design",
             "Generative AI",
-            "RAG Systems",
-            "Agentic AI"
+            "RAG Architectures",
+            "Agentic AI Systems"
         ]
 
-        self.philosophy = [
-            "Projects > Tutorials",
-            "Consistency > Motivation",
-            "Depth > Surface Knowledge"
+        self.engineering_mindset = [
+            "Build real-world impactful systems",
+            "Learn concepts deeply, not superficially",
+            "Turn imagination into scalable products",
+            "Stay consistent even when nobody watches"
         ]
 
-        self.currently_building = [
-            "Full Stack Applications",
-            "AI Powered Tools",
-            "Scalable Backend Systems"
-        ]
-
-        self.goal = """
-        Build impactful products,
-        solve meaningful problems,
-        and become elite in software & AI.
+        self.current_focus = """
+        Crafting full-stack applications,
+        exploring AI-driven technologies,
+        and developing the problem-solving mindset
+        required to engineer the future.
         """
 
-    def life():
+        self.belief = """
+        Technology is not just about writing code.
+        It's about solving problems,
+        creating experiences,
+        and building something meaningful
+        that can impact people at scale.
+        """
+
+        self.goal = """
+        Become a world-class engineer capable of
+        building intelligent systems,
+        scalable applications,
+        and innovative AI products
+        that shape the future.
+        """
+
+    def daily_routine():
 
         while True:
+
             learn()
             build()
+            experiment()
             improve()
             repeat()
 ```
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚡ “I’m not just learning technologies — I’m engineering the future with them.”
+
+</div>
 
 <div align="center">
 
