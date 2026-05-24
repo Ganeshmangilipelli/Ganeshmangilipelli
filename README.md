@@ -1,8 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# 🌌 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Engineering+Ideas+Into+Reality+⚡;Exploring+the+Future+of+Artificial+Intelligence+🤖;Building+Scalable+Digital+Experiences+🚀;Driven+by+Curiosity+%7C+Powered+by+Consistency+🧠"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code+⚡;Exploring+AI,+Systems+%26+Scalable+Engineering+🚀;Driven+by+Curiosity+%7C+Powered+by+Consistency+🧠"/>
 
 </div>
 
@@ -10,62 +10,42 @@
 
 <div align="center">
 
-```python
-class Ganesh:
+### ⚡ From solving programming problems  
+### to engineering intelligent systems —
 
-    def __init__(self):
+I’m currently focused on mastering **Full Stack Development**,  
+**Data Structures & Algorithms**, and the rapidly evolving world of  
+**Generative AI, RAG Systems, and Agentic AI**.
 
-        self.identity = "Future Software & AI Engineer"
+<br>
 
-        self.currently_mastering = [
-            "MERN Stack Development",
-            "Data Structures & Algorithms",
-            "System Design",
-            "Generative AI",
-            "RAG Architectures",
-            "Agentic AI Systems"
-        ]
+What excites me most about technology is not just writing code —  
+but building systems that can **solve meaningful problems at scale**.
 
-        self.engineering_mindset = [
-            "Build real-world impactful systems",
-            "Learn concepts deeply, not superficially",
-            "Turn imagination into scalable products",
-            "Stay consistent even when nobody watches"
-        ]
+<br>
 
-        self.current_focus = """
-        Crafting full-stack applications,
-        exploring AI-driven technologies,
-        and developing the problem-solving mindset
-        required to engineer the future.
-        """
+I enjoy transforming ideas into real-world applications,  
+exploring how modern software and AI can work together,  
+and continuously pushing myself to think deeper, build better,  
+and grow as an engineer every single day.
 
-        self.belief = """
-        Technology is not just about writing code.
-        It's about solving problems,
-        creating experiences,
-        and building something meaningful
-        that can impact people at scale.
-        """
+<br>
 
-        self.goal = """
-        Become a world-class engineer capable of
-        building intelligent systems,
-        scalable applications,
-        and innovative AI products
-        that shape the future.
-        """
+Whether it’s:
+⚡ building scalable MERN applications  
+🧠 solving complex DSA problems  
+🤖 experimenting with AI-powered systems  
+🚀 or learning how great software is architected —
 
-    def daily_routine():
+I’m always building toward the next level.
 
-        while True:
+<br>
 
-            learn()
-            build()
-            experiment()
-            improve()
-            repeat()
-```
+### 🌠 Vision
+
+To become a world-class Software & AI Engineer  
+capable of creating impactful products, intelligent systems,  
+and technology that genuinely matters.
 
 </div>
 
@@ -73,7 +53,7 @@ class Ganesh:
 
 <div align="center">
 
-### ⚡ “I’m not just learning technologies — I’m engineering the future with them.”
+> ### “The future belongs to those who can build it.”
 
 </div>
 
