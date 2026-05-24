@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Ganesh;MERN+Stack+Developer;DSA+Learner;GenAI+Explorer;Building+the+Future+with+Code" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=GANESH&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20Progress&descAlignY=60&descAlign=50"/>
 
-<img src="https://komarev.com/ghpvc/?username=Ganeshmangilipelli&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Ganesh;MERN+Stack+Developer;DSA+Problem+Solver;GenAI+Explorer;Future+AI+Engineer;Building+the+Future+with+Code+⚡"/>
+
+<img src="https://komarev.com/ghpvc/?username=Ganeshmangilipelli&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 ```yaml
 name: Ganesh
@@ -16,18 +18,31 @@ located_in: India
 current_focus:
   [
     "MERN Stack",
-    "DSA",
+    "Data Structures & Algorithms",
     "System Design",
-    "GenAI",
-    "RAG",
+    "Generative AI",
+    "RAG Systems",
     "Agentic AI"
   ]
 
-currently_building: "Real-world scalable projects"
+currently_learning:
+  [
+    "Advanced MERN",
+    "AI Engineering",
+    "Scalable Backend Systems"
+  ]
 
-goal_2026: "Become a strong software engineer and AI engineer"
+goal_2026: "Become a top-tier Software & AI Engineer"
 
-fun_fact: "Consistency beats intensity 🚀"
+hobbies:
+  [
+    "Building Projects",
+    "Learning New Technologies",
+    "Problem Solving",
+    "Public Speaking"
+  ]
+
+motto: "Code. Learn. Build. Repeat."
 ```
 
 ---
@@ -36,21 +51,24 @@ fun_fact: "Consistency beats intensity 🚀"
 
 <div align="center">
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,git,github,vscode,postman,linux&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</div>
 
-### Backend
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+# 🚀 Current Mission
 
-### Database
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+| Focus Area | Status |
+|---|---|
+| MERN Stack | ⚡ Grinding |
+| DSA | 🔥 Daily Practice |
+| System Design | 📚 Learning |
+| GenAI | 🤖 Exploring |
+| RAG Systems | 🚀 Building |
+| Agentic AI | 🧠 Researching |
 
 </div>
 
@@ -98,28 +116,59 @@ fun_fact: "Consistency beats intensity 🚀"
 
 ---
 
-# 🚀 Current Mission
-
-- 📚 Solving DSA consistently
-- ⚛️ Building MERN projects
-- 🤖 Exploring Generative AI
-- 🧠 Learning System Design
-- 🔥 Improving problem-solving skills
-- 🌍 Building projects that matter
-
----
-
-# 🌐 Connect With Me
+# 🧠 Coding Profiles
 
 <div align="center">
+
+<a href="https://github.com/Ganeshmangilipelli">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ganeshmangilipelli">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+</div>
+
+---
+
+# ⚔️ Developer Mindset
+
+<div align="center">
+
+```text
+while(alive) {
+    eat();
+    code();
+    learn();
+    build();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Ganeshmangilipelli/Ganeshmangilipelli/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🌌 Quote
+
+<div align="center">
+
+> “The best way to predict the future is to build it.”
 
 </div>
 
@@ -127,8 +176,6 @@ fun_fact: "Consistency beats intensity 🚀"
 
 <div align="center">
 
-## ⚡ “Code. Learn. Build. Repeat.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
