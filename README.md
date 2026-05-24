@@ -48,4 +48,4 @@ MERN Stack Developer | DSA Learner | GenAI Enthusiast
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn]([YOUR_LINKEDIN_UR](https://www.linkedin.com/in/mangilipelli-ganesh-092531237/)L)
